@@ -14,6 +14,6 @@ We thought about this project as beyond the scope of a singular hackathon, and i
 
 Navigation:-
 a) run the codes/open the files in aweb browser to use the chatbot at the bottom right :-  default.html ; about-hospital.html ; about-us.html ; accreditions.html ;
-   associates.html
+   associates.html (All the remaining files are supporting files to run the demo deenanath website so make sure to download all)
 b) We also made a simple website and integrated Deenu on it, the files for accessing it is :- expindex.html ; expscript.js ; expstyles.css
 c)We also made a program in python that is a self learning chatbot, under the files:- knowledge_base.json ; main.py
