@@ -13,4 +13,7 @@ While waiting for your chatbot to reply please understand it is working through 
 We thought about this project as beyond the scope of a singular hackathon, and into the realm of business and real applicable development. This is a completed project ready for even a business as large as Deenanath Mangeshkar Hospital to directly integrate onto it's live site!
 
 Navigation:-
-a. run the codes in default.html ; 
+a) run the codes/open the files in aweb browser to use the chatbot at the bottom right :-  default.html ; about-hospital.html ; about-us.html ; accreditions.html ;
+   associates.html
+b) We also made a simple website and integrated Deenu on it, the files for accessing it is :- expindex.html ; expscript.js ; expstyles.css
+c)We also made a program in python that is a self learning chatbot, under the files:- knowledge_base.json ; main.py
