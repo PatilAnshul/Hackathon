@@ -19,3 +19,4 @@ NOTE:- IF THE BOT ICON DOESN'T RESPOND SCROLL ALL THE WAY TO THE BOTTOM OF THE W
 b) We also made a simple website and integrated Deenu on it, the files for accessing it is :- expindex.html ; expscript.js ; expstyles.css
 c)We also made a program in python that is a self learning chatbot, under the files:- knowledge_base.json ; main.py
 d) Medical AI Chatbot is our powerpoint presentation be sure to check it out.
+e) We have also made a video of how the bot work, :- search for the file VideoCompressorResizeCompressVideo2023_09_18_07_16_12.mp4
